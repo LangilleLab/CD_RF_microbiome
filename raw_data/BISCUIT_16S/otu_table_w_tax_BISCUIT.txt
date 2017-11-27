@@ -1,0 +1,985 @@
+X.OTU.ID	S15	S3	S17	S18	S10	S30	S2	S11	S20	S26	S16	S35	S23	S21	S1	S24	S39	S8	S31	S19	S12	S9	S22	S37	S29	S7	S32	S14	S4	S36	S5	S25	S27	S40	S33	S28	S6	S13	taxonomy
+358030	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+196271	0	0	0	0	0	0	0	1	0	2	4	9	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+196270	2	0	0	1	0	0	3	2	4	0	1	0	0	0	3	2	0	0	0	0	0	2	2	3	2	1	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+297149	0	1	1	3	0	0	0	0	0	18	0	1	0	0	0	0	8	0	0	1	0	0	0	0	0	2	0	0	0	21	0	2	1	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3604981	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+240755	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	112	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__influenzae
+326482	0	0	0	0	0	0	196	0	0	0	1	0	0	0	53	0	102	0	0	112	0	0	0	0	0	10	0	37	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+4393540	0	0	0	18	0	0	0	0	0	0	0	0	0	0	138	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+4339144	0	11	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+4369050	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+198830	0	0	0	0	0	1	0	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+3557915	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+167609	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+535707	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__longum
+182456	0	0	2	0	0	0	0	0	0	0	12	0	0	0	6	0	7	6	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+193575	13	7	45	0	0	10	0	1	9	0	4	0	1	0	1	0	0	12	0	0	2	1	0	0	0	2	10	0	29	0	5	0	2	3	3	0	0	0	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella
+199054	7	0	0	0	0	0	2	0	0	0	0	7	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+176062	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+2309802	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	28	0	3	0	0	123	22	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+1551174	0	0	27	0	0	20	4	8	14	0	0	0	4	3	0	3	7	0	0	0	26	2	0	6	1	2	3	1	0	0	0	0	0	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+1654480	0	0	4	0	0	0	3	0	6	0	0	3	1	1	3	2	4	5	0	0	0	0	4	0	0	7	2	0	0	0	0	0	3	0	4	2	5	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+194033	20	0	4	0	1	10	0	0	14	24	1	11	10	1	11	0	3	0	0	1	4	7	0	3	0	0	1	1	0	0	3	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+196893	0	0	0	0	2	6	7	0	0	0	3	0	0	0	1	0	0	6	0	0	0	0	2	1	0	0	0	0	0	0	0	1	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+349640	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium; s__
+302647	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__
+4476964	4	0	0	26	0	121	0	0	0	0	0	0	10	98	0	443	15	2	0	0	0	112	0	0	0	0	0	0	19	371	0	0	1	30	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+521515	0	0	0	0	10	8	9	0	5	0	8	19	7	42	0	19	31	4	0	9	86	1	0	78	109	19	0	0	0	0	0	0	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+199301	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4331360	0	0	0	0	0	2	0	0	0	0	0	0	0	5	0	0	11	0	0	0	0	0	9	3	5	57	0	5	0	0	0	7	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+167468	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Phascolarctobacterium; s__
+185864	1	0	0	0	1	0	7	0	2	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	13	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4429239	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+342449	1	0	0	0	0	0	3	0	1	0	0	3	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+865671	0	2	3	1	5	5	2	0	0	1	0	0	0	0	5	0	0	2	5	7	0	2	0	0	1	0	0	0	0	0	0	1	10	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales
+185486	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	5	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+508875	1	0	5	0	0	26	4	0	0	0	0	0	0	14	0	5	24	10	0	0	0	0	0	0	12	2	3	0	6	0	0	0	0	0	0	1	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3865949	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	4	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+1740161	0	0	26	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	2	6	1	1	1	2	5	0	0	0	8	0	0	0	4	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+178928	0	0	0	0	0	0	8	0	0	4	5	9	0	0	4	0	0	0	0	0	33	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+3069023	0	12	4	0	15	1	45	0	29	0	1	0	8	0	3	30	2	1	0	0	10	6	3	12	0	30	0	0	0	0	0	0	0	0	47	13	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+352617	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius
+355938	0	0	0	0	0	1	0	0	0	0	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+298651	0	0	0	0	0	1	0	0	0	0	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme
+178217	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+178211	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4413581	9	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+183220	0	0	0	0	0	0	3	0	0	2	2	3	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+189960	1	91	102	106	0	0	36	0	35	0	50	0	0	5	22	13	119	0	23	0	6	151	7	0	0	112	268	12	0	0	60	320	13	18	220	4	6	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+175883	16	58	20	0	3	0	0	50	17	43	0	56	0	8	15	15	45	0	0	0	1	36	7	27	0	19	5	6	0	31	13	28	0	114	0	5	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4344749	0	0	0	4	0	0	0	0	0	5	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	8	0	0	0	60	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+847711	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__
+525515	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__
+2256427	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+263203	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+189210	5	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+204681	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	47	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+34791	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	10	0	0	0	0	0	0	5	0	0	0	0	10	35	0	0	0	3	3	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+212686	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+577294	29	0	0	7	16	0	16	8	5	0	1	0	0	0	0	0	11	19	9	1	3	26	0	17	0	0	105	0	0	0	32	0	0	0	0	3	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+196307	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+3732048	0	0	0	0	0	1	0	0	2	1	0	0	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+194792	0	2	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__
+366386	3	0	0	1	18	39	20	4	15	0	29	30	2	36	19	36	0	23	0	5	14	11	4	18	21	25	19	1	0	21	2	0	0	0	0	43	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__formicigenerans
+307680	2	0	0	0	9	0	0	0	0	0	0	6	2	0	1	4	3	0	0	1	2	1	7	0	0	1	3	0	3	1	0	5	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+1788466	0	2	0	1	0	0	0	0	0	6	0	0	0	0	0	1	5	0	0	0	0	0	1	0	0	0	0	0	0	6	0	3	1	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+537085	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	54	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae
+182595	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+358757	136	24	1	0	0	0	0	0	6	0	0	0	295	0	0	1	0	79	2	0	322	0	0	0	0	67	0	5	0	0	0	0	0	0	0	0	0	18	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila
+198956	5	0	1	2	0	0	0	0	5	0	0	1	1	0	1	1	0	1	0	1	2	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+333028	0	0	0	0	0	0	0	0	0	0	334	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+4465910	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+593422	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+177679	3	0	1	0	0	0	0	0	2	2	0	0	1	0	0	0	0	1	0	0	0	2	0	1	1	0	1	0	2	0	4	0	0	3	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+761968	0	1	12	0	0	21	0	0	11	0	15	19	9	0	2	3	0	5	0	6	7	3	0	5	6	13	0	5	0	0	1	32	0	0	1	7	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+1529190	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+842291	3	0	0	1	15	7	2	5	0	0	0	0	0	0	1	0	0	4	0	1	20	1	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+186233	0	0	5	0	0	0	0	0	0	0	0	0	0	0	5	12	0	0	0	0	0	0	35	1	0	0	0	0	0	0	0	144	0	0	0	0	3	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+184610	0	0	1	295	191	0	2	251	93	0	0	0	0	318	0	0	0	78	288	22	0	0	139	40	0	0	0	0	0	160	0	0	0	0	143	213	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+669771	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__
+307661	0	0	2	2	1	1	7	0	3	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+4459631	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	2	0	0	0	2	0	0	4	1	0	2	0	0	0	0	11	0	0	0	0	1	4	19	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
+305207	43	4	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__
+173822	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+195236	0	0	1	0	0	1	24	0	0	0	0	2	0	0	9	0	0	1	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	2	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+210542	0	1	0	0	1	0	0	0	2	0	1	0	3	2	0	1	0	0	0	0	1	1	0	0	10	3	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+564334	0	1	0	0	0	0	0	0	0	46	0	0	2	0	0	0	3	0	0	0	0	6	0	0	0	6	1	0	0	0	2	1	0	4	0	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+254662	0	1	0	0	0	0	1	1	0	0	0	9	0	0	0	3	0	0	0	0	0	0	0	0	0	4	0	13	0	3	0	0	0	0	2	0	29	12	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+168071	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+313423	0	0	6	0	6	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	0	1	2	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+4449054	0	0	1	0	0	0	0	0	0	0	78	0	0	0	0	0	1	0	62	0	0	543	0	0	0	274	0	0	0	0	0	0	0	170	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+41229	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+183829	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+3101394	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	0	0	2	0	0	0	0	0	2	0	0	2	0	0	3	0	0	6	0	12	0	101	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+293869	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+757622	0	0	0	0	0	0	1	0	0	0	0	5	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__
+299295	0	0	0	0	2	0	3	0	0	7	9	0	9	0	0	0	1	5	0	0	1	23	0	0	0	0	9	2	0	0	0	4	5	4	0	0	0	2	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+321774	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+195015	0	0	0	0	0	0	22	0	0	0	13	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+321005	1	0	6	4	0	0	1	0	2	0	0	2	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	1	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+172777	0	0	8	772	522	0	7	736	121	0	0	0	0	384	0	1	0	99	392	75	0	0	299	139	0	0	0	0	0	425	0	0	0	0	453	637	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+316267	0	0	0	0	0	0	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+355909	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+1776714	11	0	1	0	0	0	6	0	3	0	6	2	0	0	2	0	0	0	0	0	4	0	8	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+368486	0	2	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	2	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum
+4397805	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	4	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__
+2816368	45	7	0	0	0	0	0	0	0	0	0	0	65	0	12	0	0	39	0	0	75	0	0	0	0	26	0	1	0	0	0	0	0	0	0	0	0	9	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila
+175323	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+175635	1	0	0	0	0	3	1	1	0	1	0	5	0	0	1	0	0	2	1	0	0	2	0	0	0	0	1	0	0	0	0	2	0	0	2	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3123133	0	36	0	0	0	0	0	0	0	0	1	0	0	0	19	22	0	8	0	2	27	0	0	0	0	0	0	2	0	0	0	0	53	0	0	38	7	26	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+179841	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4468377	0	0	0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2148365	0	0	0	0	3	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+343709	22	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__
+338621	1	1	0	0	1	9	16	2	0	13	0	23	2	2	3	0	2	0	2	17	3	0	0	2	0	0	0	2	2	0	1	0	6	0	19	0	26	43	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+193679	3	1	2	0	0	12	0	2	3	8	0	3	3	1	6	1	0	0	0	0	3	0	0	8	1	0	3	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+2160415	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	1	3	0	6	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+849723	0	4	0	0	0	0	0	0	3	0	0	0	0	0	3	0	0	0	1	0	0	4	0	1	0	2	0	0	0	0	2	0	0	4	1	0	0	2	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+4416614	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	0	0	0	188	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+307127	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+165118	0	0	0	0	0	0	0	0	0	0	87	0	0	0	14	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__Paraprevotella; s__
+2183213	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	5	2	0	0	0	0	1	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+192086	0	0	1	0	0	0	0	1	0	0	2	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+196098	0	0	0	0	0	0	3	0	2	0	0	2	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	4	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+325850	0	8	0	0	5	0	0	0	0	0	0	0	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__
+182613	0	0	0	0	0	0	0	0	0	0	4	0	0	2	0	0	0	0	0	0	1	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+2272349	0	59	12	0	0	0	0	0	0	0	0	0	0	0	0	23	115	0	0	0	55	0	0	0	59	0	0	0	0	0	0	0	0	47	0	0	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Phascolarctobacterium; s__
+189396	0	1	12	0	0	0	0	0	0	0	1	0	1	10	4	0	0	24	0	2	0	2	2	3	6	0	0	0	0	22	0	0	0	4	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+348287	9	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+182723	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4370945	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+331865	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+4368216	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius
+3257403	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+176067	0	0	4	0	0	0	2	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+186289	4	0	0	1	0	0	1	0	3	0	1	3	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__
+181036	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+191330	0	0	3	0	0	0	4	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	37	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+515869	5	0	50	0	39	35	170	49	91	31	89	29	42	448	76	39	0	73	1	55	107	8	6	679	508	99	81	13	55	0	0	40	0	97	50	396	21	70	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii
+195532	2	0	1	0	0	1	50	0	1	0	5	5	0	0	1	0	1	1	0	1	1	0	2	0	0	0	3	0	0	0	0	2	0	0	1	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+333166	0	0	0	1	7	14	2	0	0	27	4	0	0	0	0	4	0	1	0	2	20	0	1	0	0	1	2	0	0	29	0	0	0	0	7	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+4369272	0	4	0	41	0	0	0	9	42	0	23	44	0	63	4	0	32	3	0	7	0	103	0	9	0	21	0	3	0	0	33	0	0	0	38	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales
+190003	0	2	0	0	1	6	4	0	0	0	4	0	0	0	0	0	0	3	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4172237	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	238	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4447605	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	5	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+105287	2	0	1	2	1	0	3	2	2	0	0	0	0	0	6	3	0	0	0	0	0	0	1	0	0	0	1	0	0	3	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+1105984	0	0	38	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+189684	0	0	2	0	0	0	0	1	2	2	0	7	5	1	0	22	6	5	0	0	0	0	1	1	5	0	0	0	0	6	0	0	0	7	0	0	1	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+349882	1	0	0	0	0	0	0	0	17	0	6	0	2	2	4	2	10	7	0	1	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4371786	0	0	0	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	138	0	1	0	0	0	0	0	0	13	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+2990145	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4144790	8	2	0	20	58	31	9	9	12	0	8	0	6	14	23	45	23	37	0	0	94	3	32	20	11	207	0	4	0	0	0	14	0	0	1	3	0	19	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+295296	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4094862	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4094866	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+175535	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	8	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+187460	1	0	0	0	0	1	2	0	0	3	0	1	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	35	29	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+830442	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	4	0	0	1	0	0	0	2	0	0	1	0	0	0	0	9	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
+211935	0	0	0	0	0	3	0	0	0	4	1	1	2	0	0	0	0	0	0	1	1	3	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+197517	0	7	0	55	0	0	0	66	47	0	39	57	0	0	1	0	35	9	0	17	0	97	0	16	0	15	0	7	1	0	46	0	0	0	36	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__
+4363793	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	54	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+2816372	1	0	0	0	0	4	5	0	22	38	10	0	3	0	1	0	0	23	1	0	3	2	0	4	0	7	0	1	0	36	0	0	0	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+168439	0	45	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	10	44	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+365510	1	1	0	0	0	0	2	4	7	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+1980945	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1	8	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	2	0	1	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+988932	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4297508	0	0	6	0	0	0	3	0	8	0	0	0	0	0	0	0	4	0	2	0	0	1	14	0	0	0	0	2	0	85	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+194667	314	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+183556	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+287951	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+178478	74	0	59	45	0	0	15	41	0	0	26	0	110	0	7	0	0	0	1	18	159	97	0	0	0	106	39	12	0	0	221	0	0	151	0	0	0	7	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+1080448	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__influenzae
+1875986	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+192339	9	9	1	0	0	0	1	0	0	0	19	0	12	0	0	2	0	6	0	3	17	5	0	0	0	0	4	0	0	0	0	0	0	0	0	9	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+547223	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+993831	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__
+355685	21	9	0	4	11	10	9	1	14	0	8	0	12	17	9	45	44	12	0	15	38	1	0	64	19	99	1	0	0	0	0	0	0	0	0	25	1	8	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4433339	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	105	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+527485	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	27	0	0	0	0	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__Peptostreptococcus; s__
+174978	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	11	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+588216	0	3	19	511	0	0	109	51	1	594	0	23	191	501	20	464	0	0	1310	0	1	0	438	0	60	37	704	1148	51	199	9	240	173	6	292	1	336	2004	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+3051085	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+322118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+13986	0	0	0	0	0	0	0	1	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	25	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+177905	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+2642538	58	8	53	9	32	1	14	100	0	0	58	0	130	10	60	33	58	30	0	30	67	18	122	27	0	37	48	10	0	0	71	0	0	0	23	1	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Odoribacter; s__
+352304	0	0	0	0	0	0	2	1	5	0	9	1	0	0	47	0	7	3	0	0	2	0	18	0	3	0	0	2	0	0	0	0	0	0	0	0	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3143796	0	0	0	1	0	6	4	0	1	0	1	0	0	1	1	0	0	1	0	2	2	3	0	0	0	0	2	1	0	0	0	0	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+189548	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2996799	0	0	1	0	8	0	7	0	5	1	0	0	7	6	0	0	1	0	2	2	3	0	18	13	0	5	1	3	1	0	0	9	0	0	4	1	0	6	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+361507	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__
+196134	0	0	0	0	0	2	12	0	0	1	3	0	1	3	1	0	1	3	1	0	1	1	0	2	4	0	11	1	1	0	1	0	0	0	0	21	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+3581686	1	0	3	1	0	0	1	0	2	0	48	0	2	0	12	0	4	0	0	0	3	0	0	2	0	0	0	1	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+833731	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+4352349	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	6	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__
+184671	0	0	0	0	0	0	0	0	1	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4378683	0	7	8	1	2	0	0	18	3	371	0	28	0	0	5	0	24	0	0	0	0	0	52	30	0	10	0	0	0	43	1	4	57	47	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4371060	0	0	8	0	0	0	0	0	0	30	14	0	0	0	0	14	0	0	0	0	38	0	0	0	0	0	0	4	15	0	0	0	0	24	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+2722893	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3220518	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__formicigenerans
+185753	23	96	41	0	3	0	2	58	18	82	0	89	2	5	12	15	59	0	0	0	0	54	14	35	0	16	7	9	0	27	12	46	0	181	1	7	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+559527	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__longum
+513445	53	0	116	37	84	81	9	0	97	114	4	13	85	0	25	100	5	36	12	5	0	28	56	107	27	25	37	7	50	0	146	0	37	105	0	0	23	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+2170536	4	0	15	0	0	3	10	11	30	10	6	0	0	4	0	2	36	9	2	0	44	1	32	1	0	8	4	0	0	81	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+187894	3	9	3	0	17	3	28	1	15	0	15	0	13	0	6	41	20	12	0	2	4	3	3	16	0	3	2	0	0	0	0	0	0	0	111	16	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2320424	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	7	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+585227	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+4451152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4384516	2	0	7	4	4	1	0	0	5	3	0	0	2	0	1	3	0	1	0	0	0	0	3	8	2	0	0	1	1	0	1	0	2	1	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4005150	0	6	12	0	0	63	0	0	0	0	3	0	0	2	14	36	1	0	0	0	2	0	12	0	180	0	0	5	6	29	20	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+636296	0	0	0	0	0	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	0	5	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+1013285	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__
+183781	0	0	0	0	1	0	0	1	4	0	7	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+865469	1	0	7	0	0	0	0	0	0	1	0	22	3	28	35	109	1	0	1	1	2	1	0	10	6	8	14	0	0	3	0	1	50	5	41	2	136	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+198176	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+352014	0	0	2	1	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	3	0	0	0	0	0	0	10	0	0	2	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+820346	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+1868703	0	0	0	0	0	7	0	0	0	0	0	0	0	0	2	59	5	0	0	0	0	0	1	0	0	0	4	0	0	54	0	14	0	0	0	1	1	10	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+198190	2	2	67	0	0	34	9	21	114	0	47	59	19	12	4	6	4	39	0	3	31	3	20	0	0	12	17	1	24	25	6	0	0	6	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales
+190169	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii
+186131	0	0	0	0	5	0	0	0	0	33	0	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	6	6	12	7	4	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]
+182149	10	0	0	0	0	0	0	0	0	0	8	0	1	0	0	0	0	2	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+186134	0	0	4	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4235585	0	0	0	0	0	0	0	0	0	0	0	1	0	0	111	0	0	0	80	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+2986828	0	0	0	0	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	2	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+243150	8	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	6	2	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+4282363	0	0	0	0	0	2	2	3	1	0	0	0	1	0	2	0	0	0	0	0	2	0	0	0	1	1	0	1	0	0	0	0	0	0	1	0	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+1766666	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+179261	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+299281	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+575557	0	0	0	0	2	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	9	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum
+174588	0	0	0	0	0	0	3	0	0	0	3	0	0	1	3	1	0	0	0	0	0	0	1	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+194512	0	0	0	0	0	0	1	0	12	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	4	0	0	0	0	0	3	0	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+1910658	0	0	61	0	0	0	0	0	0	0	7	0	9	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+198426	0	0	0	0	0	1	0	0	0	0	3	0	0	0	8	0	1	0	0	0	1	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2198356	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+238205	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__butyricum
+4122606	0	0	1	0	92	0	7	0	0	0	0	0	0	0	0	0	0	0	16	5	0	0	0	0	0	0	21	4	0	0	0	0	0	0	14	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+194670	1	0	14	0	0	0	0	0	8	0	3	2	0	0	0	0	2	0	0	0	1	4	0	0	0	1	2	0	0	0	0	0	1	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+298592	0	0	0	0	0	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+1042805	0	0	2	0	0	0	0	1	0	0	0	0	0	0	1	3	0	1	2	14	0	0	0	0	1	0	0	0	0	1	0	3	5	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__infantis
+216290	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__
+4254313	0	0	0	0	0	0	0	0	0	0	0	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+179460	1	1	0	0	0	10	1	0	1	0	0	0	0	0	1	0	2	0	0	1	0	0	0	2	0	0	0	0	0	3	0	0	0	1	0	4	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3151924	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Klebsiella; s__
+184386	5	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+132041	19	14	4	2	0	12	0	1	0	52	1	62	10	0	0	0	0	0	0	2	3	0	0	9	2	0	0	24	6	0	5	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__longum
+848615	3	0	2	0	24	0	1	3	12	0	11	0	27	0	0	30	0	29	0	1	5	1	5	0	0	2	0	1	0	0	0	0	0	0	1	31	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4128381	1	0	4	4	5	6	12	8	31	54	6	81	15	0	10	113	10	0	4	4	51	1	32	7	3	3	4	4	6	62	9	5	0	32	0	9	1	18	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+916108	1	1	0	1	3	1	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	2	0	0	1	3	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+190975	0	0	7	0	1	0	0	36	0	0	0	0	48	0	11	0	0	4	0	14	0	0	26	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+786708	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae
+4372130	0	147	2	0	0	3	0	6	0	0	62	0	0	2	2	14	1	0	0	3	12	0	0	0	0	0	1	0	0	0	2	364	0	124	67	6	1	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+107044	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+306299	0	0	4	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	2	0	1	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4474533	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__
+529233	0	1	3	1	0	0	1	1	0	1	0	0	0	1	0	1	0	0	1	3	1	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	5	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Gemellales; f__Gemellaceae; g__Gemella; s__
+573223	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae; g__Rhizobium
+183162	0	15	3	23	8	0	1	3	2	0	1	28	7	2	0	9	1	0	0	0	0	30	10	3	4	41	8	4	0	54	3	41	0	25	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+299882	0	0	0	0	0	0	0	0	0	0	137	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella
+183619	21	128	14	0	46	7	7	54	0	0	4	0	60	0	46	0	5	0	17	0	0	49	53	46	34	91	31	9	0	0	109	0	0	122	58	111	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+184725	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+184497	0	0	0	0	0	0	2	0	1	0	1	0	1	0	2	2	0	0	0	0	0	0	1	1	3	1	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+72466	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+181543	2	0	16	0	0	3	0	0	26	0	4	0	0	0	5	0	0	0	1	0	5	1	19	8	16	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+1557169	0	0	0	0	0	0	0	2	2	0	0	2	2	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	3	2	0	0	0	2	0	0	3	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+177910	5	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+194693	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+988375	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+192133	0	0	0	3	0	0	2	1	0	0	0	1	0	0	2	0	0	0	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+224379	0	0	0	0	0	0	158	0	1	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+368698	0	0	0	1	11	0	2	5	19	0	5	0	1	0	0	15	0	3	0	0	0	6	0	4	0	20	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+197072	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	11	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis
+289293	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	99	0	0	0	10	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__perfringens
+4464079	0	0	25	59	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	4	0	0	30	147	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+894007	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+185722	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	4	0	0	2	0	0	0	0	0	11	0	4	0	0	9	0	0	3	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+293330	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+2170526	3	0	0	0	0	0	0	0	0	0	2	0	11	0	3	0	5	19	0	0	0	4	0	1	0	0	0	1	0	0	0	0	0	0	35	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+315589	9	0	1	0	4	0	0	2	8	0	14	0	4	3	4	0	16	14	0	2	0	4	0	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+294219	1	13	2	3	3	0	0	0	0	13	0	1	1	0	0	2	13	0	0	2	1	0	0	1	0	0	0	0	0	22	0	25	0	40	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+294210	0	0	0	0	0	0	1	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__stercoris
+4226619	133	0	6	2	0	0	0	2	0	0	1	0	0	0	13	1	35	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	22	0	6	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+190595	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+2614328	0	0	5	0	0	14	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	1	0	0	0	5	0	0	0	0	0	0	0	6	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+182157	4	31	86	1	0	0	4	7	144	0	17	311	43	0	0	22	20	5	0	4	0	7	0	69	98	8	0	3	227	120	70	309	61	0	80	0	15	162	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+187443	3	0	0	0	0	0	0	3	33	0	5	188	27	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	59	54	175	36	0	0	0	11	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+197524	0	1	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+846798	0	0	0	14	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	6	62	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+157101	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	653	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+528357	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+175642	2	0	0	0	0	0	0	0	0	3	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+176080	0	0	0	0	0	2	0	0	0	6	0	4	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3195932	0	0	0	0	0	0	0	0	0	127	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	2	0	0	102	0	0	119	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+193951	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia
+4346863	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__
+216599	11	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	1	10	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+187702	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+322433	4	4	0	0	0	0	0	2	0	0	5	0	13	0	1	2	0	2	0	2	23	4	0	0	0	0	1	1	0	0	0	0	0	0	0	9	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+235262	0	0	0	1	0	0	2	2	0	0	0	19	0	0	0	0	0	0	1	0	10	0	0	0	2	0	0	0	18	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__adolescentis
+3540120	1	0	0	0	0	0	2	2	8	0	3	0	1	1	0	0	0	14	0	0	2	3	0	2	2	2	0	0	0	11	0	0	0	0	0	2	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+936190	0	0	1	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+518865	0	0	1	0	0	0	11	0	0	0	0	3	0	18	1	0	0	0	0	7	0	0	0	0	11	0	4	1	5	0	0	2	12	0	0	0	5	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+4452633	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+517797	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	14	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+183579	1	12	0	0	0	0	2	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+182889	0	0	1	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+525391	0	0	0	0	1	0	1	0	0	2	0	0	0	3	0	0	0	0	0	2	0	0	1	1	1	0	0	2	0	3	0	0	9	0	0	0	5	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+3318103	0	0	1	0	0	3	1	2	5	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	6	0	1	0	0	5	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+4212517	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+1791578	0	94	8	0	0	0	3	31	0	0	0	50	0	0	0	90	7	0	0	0	0	0	0	0	2	152	45	287	0	69	0	0	3	0	16	0	801	220	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+4468384	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+195801	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+340876	0	0	0	0	0	9	12	0	0	0	1	0	0	0	5	3	0	4	0	2	0	0	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+197249	0	0	0	0	0	0	2	0	0	0	0	0	0	1	5	0	0	4	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+521384	0	0	0	0	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__
+192865	0	46	0	0	81	0	1	0	0	0	0	0	0	0	35	10	74	0	11	1	3	0	0	0	2	0	18	0	27	0	16	0	0	0	1	0	0	197	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+561537	0	0	3	1	0	1	10	0	0	3	0	5	0	2	0	2	0	0	0	0	0	0	1	4	0	1	1	0	0	6	0	0	31	0	0	0	12	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar
+4407515	0	0	0	28	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	3	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+3910247	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__
+3629859	0	0	0	0	0	0	4	0	0	0	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+183626	6	0	0	0	3	0	0	0	0	0	0	0	2	1	0	3	0	6	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4332078	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+811253	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__johnsonii
+196200	0	0	1	0	0	2	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+183395	25	0	7	9	0	0	8	0	0	0	33	0	0	0	0	29	0	0	1	0	0	26	0	0	0	26	21	13	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+180227	0	1	0	0	0	0	0	1	1	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+2318202	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+287510	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Catenibacterium; s__
+174038	0	0	0	0	4	0	0	0	0	42	0	2	0	0	0	4	5	0	0	1	0	0	0	2	0	0	0	0	0	4	15	29	8	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+198983	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+844902	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+563572	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4369327	0	0	4	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	6	0	0	0	37	0	0	0	0	0	0	0	0	0	0	197	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+352215	0	0	0	0	0	0	0	0	1	0	31	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+190987	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+190980	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+215670	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius
+4472091	1	0	0	3	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	7	2	0	0	0	0	0	6	5	0	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+3275934	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+593803	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+189782	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+323778	0	0	0	0	0	0	0	0	0	0	1	0	3	0	1	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+3014527	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+194041	0	0	0	0	0	1	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	3	1	5	0	0	3	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia
+195275	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+4249719	0	0	0	0	25	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+336325	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	8	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+130103	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+209124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__Cloacibacterium; s__
+579851	0	4	0	1	0	0	0	0	0	4	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum
+190361	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4356307	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+586271	0	4	0	0	40	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	25	18	0	0	4	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+173917	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+2595558	0	0	0	0	0	0	0	0	0	0	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+192255	54	0	0	22	0	0	4	0	0	0	0	0	0	0	17	0	0	0	0	0	6	0	0	0	59	0	49	0	1	0	0	0	0	0	0	0	0	9	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+851865	20	1	18	0	3	158	14	1	7	2	7	18	7	17	5	4	16	66	1	14	96	12	10	3	24	3	13	2	31	12	0	6	19	10	1	10	0	5	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+190183	0	0	0	0	0	3	0	0	4	0	1	0	1	0	1	1	0	2	0	0	0	0	0	0	6	0	0	0	0	4	3	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+197535	1	0	0	0	0	5	0	5	9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+197537	0	0	0	44	0	48	3	0	0	0	0	0	0	0	0	28	9	0	20	0	30	0	32	15	43	36	27	1	40	5	3	0	0	0	2	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+347529	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	123	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__; s__
+195294	0	1	2	2	0	1	1	0	0	0	1	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	1	1	0	0	4	0	0	0	0	7	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+568118	2	0	8	1	5	12	4	0	5	14	2	23	10	0	1	5	2	5	0	2	1	6	3	14	12	42	0	0	5	0	33	0	5	4	0	0	7	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+513767	0	2	0	0	2	0	0	2	1	0	1	0	8	4	0	7	2	1	0	6	1	0	0	2	1	6	2	0	0	0	0	0	0	0	0	5	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+307820	92	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+285908	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	2	0	0	3	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Janthinobacterium; s__lividum
+565357	6	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+198245	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	4	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+353791	0	0	0	0	0	0	3	0	11	0	27	13	2	0	2	0	0	3	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__
+4447188	197	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	21	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis
+591708	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	2	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas; s__
+3857424	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	2	2	0	0	1	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+893979	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus
+175168	0	0	0	0	2	4	7	0	0	0	2	0	0	0	3	0	0	1	0	0	1	0	2	2	0	0	0	0	0	0	0	7	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+347451	0	0	0	0	0	0	14	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	2	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+3182235	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+178537	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+272850	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+291090	0	0	15	5	12	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	0	0	0	1	0	0	137	448	5	0	0	10	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+313336	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	2	3	0	0	0	0	0	0	1	0	0	0	11	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4444529	126	0	10	2	23	0	1	1	10	0	2	0	11	0	9	0	19	8	0	1	0	4	0	0	0	26	2	0	0	0	11	0	0	2	0	0	0	1	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+369797	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+370183	1	0	0	0	0	0	0	0	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+3203801	1	0	0	0	0	53	4	2	1	16	4	33	3	0	3	21	4	14	1	2	25	0	0	0	0	2	2	0	0	35	0	4	0	0	4	0	0	19	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+196577	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4381303	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+571905	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	k__Bacteria; p__Firmicutes; c__Bacilli; o__Turicibacterales; f__Turicibacteraceae; g__Turicibacter; s__
+186460	0	3	1	3	2	0	1	0	1	0	0	3	6	0	0	1	0	0	0	0	0	10	4	0	2	4	2	2	0	10	3	13	0	2	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+606927	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	2	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae
+188556	14	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+174943	0	0	0	0	0	1	0	0	2	0	4	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+730437	7	12	17	17	13	1	6	23	9	0	13	0	0	0	3	7	20	15	0	3	11	27	21	15	0	8	52	0	0	11	11	0	0	6	0	9	0	2	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Bilophila; s__
+196219	0	14	0	79	0	0	0	68	114	0	52	99	0	0	4	0	65	7	0	11	0	201	0	13	0	34	0	3	0	0	103	0	0	0	70	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__
+197341	19	2	0	0	0	0	31	0	2	0	8	5	0	0	4	0	0	0	0	0	2	0	4	1	0	0	1	0	0	0	0	7	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2265722	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+319262	1	1	4	0	0	1	1	0	7	3	0	53	0	0	0	1	0	0	0	0	0	3	1	4	3	0	4	2	0	0	3	1	0	0	6	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+196215	0	0	1	0	0	1	0	0	0	0	0	1	0	0	2	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+181529	0	1	7	0	0	2	2	1	0	6	1	5	3	0	1	4	0	0	0	0	1	0	0	1	3	0	0	0	0	0	6	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+303027	0	0	3	0	0	0	1	4	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	3	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+828043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+183748	13	0	3	5	4	0	0	0	6	0	2	7	0	1	2	2	0	0	0	0	1	4	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+183039	0	0	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	9	0	4	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+189733	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+180215	0	0	0	0	0	2	15	0	1	1	1	0	0	1	2	1	1	3	0	2	0	3	0	7	1	0	4	0	1	0	0	0	0	0	0	35	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+361556	12	1	0	1	2	2	0	1	29	0	8	1	11	0	40	2	1	9	0	0	23	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+192111	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__
+174831	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4256470	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+181984	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	1	0	4	1	0	0	3	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+177150	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	17	0	0	0	29	0	0	0	59	0	0	0	0	0	0	0	0	13	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+4345821	0	240	0	0	0	0	8	0	0	0	0	0	0	0	0	0	127	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+878104	0	1	0	0	0	14	15	0	1	1	0	12	1	29	0	0	0	0	1	1	0	0	2	1	5	10	0	0	0	4	0	5	49	0	0	0	7	7	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar
+4333652	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+186888	10	1	3	1	3	0	0	8	9	0	0	3	0	1	0	1	23	0	0	0	4	3	2	1	0	0	0	0	0	0	0	0	0	48	0	0	2	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+188047	3	0	1	0	0	2	1	0	0	0	1	0	0	0	1	1	0	2	0	1	1	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4473509	1	0	0	0	0	5	17	4	16	3	3	0	1	4	3	1	0	34	0	0	11	4	0	9	11	14	1	0	0	17	0	0	0	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+173726	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	0	29	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+4372003	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__
+185604	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	37	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+187841	0	0	3	0	0	9	10	0	5	5	1	19	2	0	2	0	1	5	0	0	3	5	0	2	7	33	0	0	4	0	13	0	3	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+2920309	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+1646166	1	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	2	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+362214	0	0	0	0	0	22	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__
+195465	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+193609	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+166863	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	1	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+535097	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__
+4331760	2	0	0	0	0	0	0	0	0	0	9	0	0	0	2	0	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+128347	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Delftia; s__
+828676	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+357312	3	34	10	0	1	3	7	2	27	0	13	0	2	0	8	36	31	4	0	2	2	5	0	5	0	23	0	1	0	0	0	0	0	0	70	30	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+301578	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+346738	0	0	4	2	0	4	12	1	6	2	10	30	0	0	1	2	0	0	0	0	1	0	0	0	0	2	0	13	0	5	0	0	5	1	8	11	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+192485	0	0	0	0	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+173920	1	0	0	0	0	3	0	0	0	0	4	10	0	0	2	0	3	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+190518	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+798164	0	0	0	0	0	0	0	1	0	0	3	5	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+851704	1	0	0	0	4	0	9	0	0	0	0	0	0	1	0	0	2	0	0	1	0	0	0	0	2	0	10	0	14	0	0	1	0	0	0	0	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__
+3224662	0	0	0	0	0	0	0	0	0	0	0	0	0	22	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+313521	0	0	3	0	0	0	2	3	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2388617	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4415263	0	0	23	44	0	0	7	0	0	0	0	0	0	0	0	0	0	0	10	0	0	5	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+187767	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+910097	0	2	4	1	0	2	11	0	0	1	1	0	3	0	0	0	0	1	2	9	0	0	0	0	1	1	0	6	0	0	0	4	25	0	0	0	8	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales
+198251	0	87	12	0	27	0	1	7	2	151	5	11	3	10	0	28	17	0	24	0	2	0	0	0	6	0	2	0	2	39	43	182	13	19	4	0	8	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]
+198252	25	0	0	0	12	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+4070326	2	0	2	0	0	0	1	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0	1	0	0	0	2	2	25	13	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4234212	5	0	64	4	0	0	0	10	0	0	4	290	50	7	38	0	1	16	0	1	129	1	0	47	19	71	0	3	0	110	80	310	26	103	1	21	1	48	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+367790	1	1	4	5	8	1	3	1	13	30	10	13	9	0	1	0	10	12	1	3	1	5	9	0	0	0	0	18	0	1	0	1	0	3	0	88	4	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+4217959	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4390839	10	0	0	0	0	31	0	0	0	0	0	0	33	0	0	0	58	12	0	0	0	0	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+321619	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+583500	0	10	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+369090	0	0	0	0	0	0	0	0	4	0	0	12	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4357223	0	3	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+194420	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+312311	0	0	0	0	0	0	0	0	0	0	4	0	0	0	1	0	12	0	0	3	0	0	1	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+191908	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4336943	0	10	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+2670196	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+174625	0	0	4	0	0	0	1	0	1	0	0	1	0	0	2	0	0	6	0	1	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+4352648	0	54	0	0	108	0	0	0	0	0	0	0	0	0	35	1	86	0	17	1	5	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	266	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+178742	2	0	3	0	0	0	0	0	0	0	2	0	6	0	1	0	0	0	0	3	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+3244989	0	0	4	0	19	0	66	6	10	34	13	0	0	0	0	5	13	0	0	2	0	2	15	10	0	0	7	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+178746	0	0	0	0	0	3	0	0	0	0	0	5	4	0	7	0	0	0	0	0	2	0	0	9	0	0	5	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+368418	1	0	0	0	0	4	0	0	1	2	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+232975	1	0	0	0	0	3	2	0	0	0	2	0	3	0	4	8	0	5	0	2	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	12	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+526131	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	2	4	0	0	0	3	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+181864	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+185354	0	0	0	0	0	1	1	0	2	1	1	0	0	2	1	0	4	2	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+580521	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+199374	0	0	0	0	0	3	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+4478663	0	0	3	0	2	1	1	0	0	0	1	21	0	0	5	0	7	0	0	4	0	1	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4381755	5	16	170	0	0	75	0	44	147	0	13	158	58	16	2	7	16	31	1	7	108	15	59	0	0	19	0	0	12	59	12	0	0	16	0	6	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales
+234314	0	0	0	0	0	0	2	0	0	0	3	8	0	0	2	0	0	0	0	1	7	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__
+536910	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+43373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1888	0	0	0	0	0	0	0	144	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Spirochaetes; c__[Brachyspirae]; o__[Brachyspirales]; f__Brachyspiraceae; g__Brachyspira; s__
+189690	0	0	0	2	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	12	33	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+198192	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia
+174840	4	0	0	0	0	0	0	0	0	0	0	2	1	1	1	0	0	0	0	0	1	0	0	6	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+187324	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	384	0	0	0	203	0	1	0	0	0	0	0	130	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__caccae
+4072222	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+197282	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+355510	18	21	33	4	10	93	92	54	23	0	39	38	124	19	88	183	17	41	2	5	3	31	28	7	407	80	50	42	55	86	54	48	0	0	0	23	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+213885	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+366651	0	0	0	0	0	0	0	0	1	0	3	0	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+965573	0	0	1	0	0	0	0	0	0	3	0	2	0	0	0	0	0	0	1	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	13	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+369429	1	0	1	0	0	3	1	1	3	1	0	44	2	0	0	0	0	0	0	0	0	0	0	0	0	2	1	2	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+3786232	162	1	0	64	0	0	0	0	0	0	0	0	90	0	0	0	203	140	0	0	0	14	4	0	0	0	0	0	258	236	0	0	0	299	11	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+4476936	0	0	0	0	0	0	0	0	0	0	0	0	0	15	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+186851	3	0	0	1	0	0	0	0	0	0	21	0	6	0	1	3	0	4	0	2	1	5	0	0	4	0	0	0	0	0	0	0	0	0	0	35	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+320483	0	0	2	0	0	1	0	1	1	0	4	0	0	4	2	0	0	1	0	0	0	0	0	0	0	1	3	1	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4437362	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	18	0	0	0	109	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+358265	2	0	0	0	0	4	1	0	1	0	3	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+182517	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	2	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+195457	5	0	0	1	1	1	0	1	7	0	3	0	4	0	18	2	0	4	0	0	2	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+573034	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__endodontalis
+186981	0	0	6	0	1	0	0	30	0	0	0	0	53	0	0	0	0	14	0	9	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+581079	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+193672	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+3035308	0	0	0	0	0	0	59	0	0	0	19	0	0	0	5	0	57	0	0	74	0	0	0	0	0	18	0	3	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+323115	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	14	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4397092	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	4	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__
+188820	0	0	3	0	4	0	4	3	24	15	1	1	9	12	6	2	0	3	2	2	4	0	8	13	3	1	4	1	0	0	0	11	0	0	8	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+215040	6	47	28	0	1	211	11	15	17	0	4	12	35	2	45	31	4	16	0	3	4	5	38	1	297	10	0	12	0	126	64	0	0	0	0	5	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+4433737	2	0	0	1	0	0	0	1	2	28	0	0	4	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+1917420	0	27	2	0	9	0	0	4	0	26	0	0	0	1	0	9	8	0	7	0	0	0	0	0	7	0	0	0	0	11	9	40	0	9	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+302494	0	3	0	6	5	0	0	0	2	0	0	0	5	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+1866742	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__
+4347568	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__faecis
+176704	2	0	0	0	0	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	6	0	0	2	0	0	0	0	0	0	0	0	0	0	1	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+186321	0	1	0	0	1	4	14	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+188918	0	0	0	0	0	3	2	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4337970	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+185988	0	0	0	0	11	3	0	2	0	0	0	0	2	1	5	0	0	0	0	0	1	1	0	2	7	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+362539	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+364274	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+176564	0	0	19	0	0	0	10	0	0	0	6	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	4	20	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+370338	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+198468	3	0	0	2	0	0	0	0	14	0	1	0	4	0	12	5	0	3	0	1	4	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea
+237138	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+195143	8	0	2	0	0	5	0	0	4	9	1	0	5	0	2	0	0	0	0	0	5	2	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+365256	0	0	0	1	0	9	39	0	2	3	2	0	2	3	6	5	4	0	5	0	4	0	2	5	1	0	3	0	6	0	1	0	0	0	4	52	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+851938	0	0	0	0	0	0	3	2	0	0	0	0	0	10	0	0	0	0	1	1	0	0	1	3	0	1	0	1	14	2	0	0	22	0	0	0	13	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Bulleidia; s__p-1630-c5
+184036	3	0	1	0	0	0	2	0	0	0	2	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+178517	0	0	0	0	0	0	11	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+191919	0	0	2	0	0	0	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	1	3	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+4296242	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__
+331326	4	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+211720	130	0	0	6	7	0	0	0	0	0	0	0	7	0	0	0	0	27	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__
+511908	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Klebsiella; s__
+195855	0	0	0	1	0	0	0	0	3	0	2	0	1	0	0	0	0	0	0	0	2	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+4442029	0	0	0	0	0	38	0	0	0	0	8	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+2548203	1	0	6	0	0	0	4	3	11	2	3	25	13	5	7	0	10	4	0	0	5	0	3	9	5	0	7	1	0	6	0	2	0	23	0	0	0	4	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+174036	34	0	282	0	198	4	67	156	300	0	112	0	0	0	36	0	206	76	98	0	108	0	209	86	147	0	167	32	0	0	0	0	0	0	0	0	22	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4226929	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+330566	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	127	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+357853	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	1	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+299441	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+370099	11	7	4	0	2	21	62	16	5	0	13	46	3	7	15	3	0	21	7	0	1	1	2	3	5	0	11	5	3	8	1	0	0	5	32	12	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+354908	0	0	0	0	0	3	11	0	1	3	0	4	1	2	3	0	1	0	1	4	1	0	0	0	0	1	0	2	0	0	0	0	5	2	10	0	8	11	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4368754	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii
+177427	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__
+186510	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+628226	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+189403	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	27	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+185164	2	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+2647328	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+303990	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4399109	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__
+186841	180	0	510	220	398	411	11	0	242	434	20	1	469	0	111	389	0	116	39	18	1	206	202	447	46	0	124	33	127	0	608	0	166	343	0	0	83	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4465473	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	3	1	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+186992	1	0	0	0	0	0	5	0	2	16	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+196831	3	5	4	21	11	0	0	1	2	0	2	0	2	1	0	2	1	0	0	0	0	7	0	1	0	12	2	0	0	3	18	0	0	12	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+188851	0	3	0	32	0	0	0	29	52	0	30	51	0	0	2	0	22	7	0	5	0	94	0	11	0	20	0	1	0	0	41	0	0	0	36	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__
+113069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	385	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+524219	0	0	0	0	0	1	2	0	4	0	1	2	0	0	2	0	0	0	0	0	0	0	1	8	0	0	0	1	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+337083	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+235212	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+348680	0	59	4	0	0	0	7	21	0	0	0	25	0	0	0	79	2	0	1	0	0	0	0	0	2	123	37	206	0	40	0	0	2	0	22	0	522	168	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+197562	0	0	0	0	0	0	2	0	0	0	1	0	0	0	1	0	0	2	0	4	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+190711	0	0	0	0	6	0	0	1	0	0	3	34	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+3686740	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+558420	11	0	0	0	0	0	0	0	9	0	2	0	2	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+184971	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+363017	1	0	0	0	0	7	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+538322	14	4	15	4	11	228	28	23	232	4	4	1	57	0	208	3	0	197	9	15	88	56	180	19	61	44	13	22	11	0	0	11	0	4	284	123	4	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4113009	0	0	5	0	0	2	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+14157	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__
+2651538	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	503	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+175485	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	3	13	0	7	0	0	16	0	0	1	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4454043	0	0	0	0	0	0	0	0	0	0	0	0	0	12	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+176828	4	2	29	0	2	4	0	3	4	0	2	0	0	0	0	0	0	11	0	1	0	6	0	4	1	0	8	3	17	0	1	0	0	4	3	0	0	0	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__aerofaciens
+583256	107	3	31	0	8	48	32	9	0	0	22	0	15	5	1	5	0	38	0	4	0	15	20	118	0	3	27	0	2	0	0	0	0	10	0	5	0	39	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+194405	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Phascolarctobacterium; s__
+554931	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia
+182861	0	0	1	0	0	2	2	0	0	0	1	0	0	2	0	0	0	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+198273	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnobacterium; s__
+179744	12	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+910272	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+178342	0	0	0	0	2	0	1	3	0	0	0	2	0	0	0	1	0	2	0	0	0	2	0	0	0	2	0	0	0	0	0	1	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+192396	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+584375	0	0	18	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	8	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__
+4347652	0	2	1	0	0	0	0	0	1	0	0	6	0	1	0	0	4	0	0	0	0	0	0	0	1	1	1	0	18	7	0	4	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+327598	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__
+187665	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	12	12	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+179961	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+547287	0	0	0	0	15	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+302235	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__
+3171486	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	0	0	1	0	0	0	0	0	0	5	2	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+234488	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+182075	2	1	0	1	0	1	4	0	1	1	0	6	0	0	0	1	0	2	0	0	2	1	1	2	0	0	0	0	0	0	0	0	0	0	1	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+858896	0	0	3	0	1	0	2	0	0	1	0	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	k__Bacteria; p__Firmicutes; c__Bacilli; o__Gemellales; f__Gemellaceae; g__Gemella; s__
+197179	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__bromii
+516648	0	0	0	1	3	0	2	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__
+183798	0	0	0	0	0	146	89	0	0	0	98	93	0	0	46	0	120	0	0	19	0	0	0	0	1	0	0	0	55	0	70	0	473	57	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+174862	0	0	0	0	0	1	0	0	0	1	2	6	1	0	0	1	1	0	0	0	0	1	0	0	5	0	0	0	0	0	0	0	0	0	96	104	3	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+2094983	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+189076	23	1	94	15	25	0	9	33	0	0	1	0	75	59	0	0	4	4	2	0	5	43	102	74	0	106	30	0	0	0	0	0	0	0	2	0	2	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+450877	0	0	0	0	0	0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae
+360636	1	0	0	2	0	0	0	5	0	0	9	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+1027587	0	0	0	0	3	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+165183	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+1649772	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+714766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	1	0	1	0	0	2	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Moryella; s__
+177343	0	220	76	37	98	24	2	116	76	0	26	88	57	30	10	27	3	63	117	1	140	78	43	26	0	16	0	6	5	74	27	0	0	10	0	1	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis
+151870	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Coprobacillus; s__
+195716	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+182538	3	0	0	1	0	0	0	0	0	4	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+193654	0	0	0	0	0	0	0	0	1	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4446898	0	2	0	25	0	23	5	0	0	0	2	0	0	0	0	66	48	0	8	1	8	0	18	11	39	15	71	2	97	4	22	0	0	0	1	0	0	2	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+581933	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+4365903	0	0	0	0	0	13	0	0	0	0	0	0	111	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	220	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+194399	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+176167	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+4414476	0	0	1	0	0	0	0	0	1	2	3	0	1	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+182224	4	0	1	0	1	0	0	0	7	0	3	6	1	1	3	3	0	0	0	1	1	6	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+1005347	0	2	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	4	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+535353	0	1	1	0	0	0	9	1	2	0	0	0	0	0	0	1	2	0	1	9	0	0	0	2	0	2	1	0	0	1	0	1	3	0	0	0	8	1	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+791998	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+328059	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	3	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+3931537	3	1	1	0	0	2	0	0	0	0	1	1	1	0	0	0	0	0	0	0	3	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+199245	8	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	208	0	0	0	9	0	0	0	0	0	0	0	63	0	0	0	0	0	42	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+592616	0	5	0	80	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+997439	0	0	3	0	0	12	0	0	16	0	0	0	0	0	4	0	9	0	0	10	0	0	0	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__
+343090	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	112	0	0	0	16	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+196711	3	0	0	0	2	29	6	1	1	0	2	0	0	3	5	1	2	0	0	2	0	3	0	4	0	2	2	3	0	3	0	0	0	2	5	6	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+271259	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	117	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4463892	0	0	3	0	0	0	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4125815	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	2	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__
+194374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+182036	1	0	0	0	0	2	0	0	0	0	0	2	0	0	1	0	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+198449	21	0	157	0	102	1	20	53	82	0	43	0	0	0	18	0	126	27	24	0	62	1	81	45	63	1	83	19	0	0	0	0	0	0	0	0	8	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4395075	0	0	0	7	28	0	0	0	0	0	0	0	0	199	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+4443664	0	199	0	0	71	12	7	0	0	0	0	0	68	0	40	1	9	0	20	0	0	54	36	25	0	115	45	3	0	0	113	0	0	145	42	168	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+300978	0	1	1	4	0	0	2	0	4	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	2	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+316378	0	0	0	0	0	0	111	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+180083	0	1	6	0	0	71	0	0	0	0	1	0	0	2	8	27	4	0	0	0	1	0	15	0	133	0	0	4	1	8	12	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+846127	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__
+4212012	0	0	0	0	0	0	33	0	0	0	166	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	162	1	68	0	12	0	0	0	0	0	1	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis
+188113	0	0	0	0	0	0	0	0	0	0	0	0	0	0	452	0	0	0	257	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+192839	0	0	2	365	274	2	11	345	115	0	3	0	0	422	0	0	0	99	335	26	0	0	189	64	0	0	0	0	0	154	0	0	0	0	239	280	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+175909	1	0	2	0	0	8	2	0	2	0	24	0	4	6	2	4	0	29	0	0	10	4	17	14	11	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+351292	1	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	1	2	0	0	1	0	0	0	0	2	0	1	0	0	0	0	0	3	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+365125	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4408801	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+4461799	0	0	0	0	1	0	4	1	4	16	0	51	0	0	1	1	0	0	3	0	14	0	3	2	0	0	0	0	0	22	0	0	0	0	1	1	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+178082	0	1	0	0	0	2	21	0	0	2	0	11	12	0	3	0	0	2	0	0	0	0	2	1	0	0	5	0	0	0	0	0	0	1	45	96	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+197004	0	0	0	0	0	0	13	0	0	2	7	13	0	0	9	0	0	0	0	2	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+356523	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__
+471180	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__
+183496	0	0	0	131	64	0	1	102	33	0	0	0	0	56	0	0	0	19	246	16	0	0	43	18	0	0	0	0	0	43	0	0	0	0	66	118	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+584541	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis
+3709560	4	9	0	0	7	17	11	4	3	0	25	0	2	0	2	28	26	17	0	0	2	2	0	4	0	0	1	2	0	0	0	0	0	0	22	33	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4432433	14	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+548032	0	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	6	0	0	0	0	1	0	0	0	33	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+330723	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingobium; s__
+920105	0	1	5	0	0	2	1	0	0	5	0	15	0	17	3	28	0	1	38	0	1	0	0	8	0	0	15	0	0	0	0	0	26	0	5	0	22	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+749837	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Oribacterium; s__
+1542256	0	0	1	1	0	4	11	0	0	0	1	11	13	0	0	0	0	1	0	0	0	0	1	0	0	0	4	0	0	0	0	0	0	0	53	103	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+174473	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+174471	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	4	0	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+545061	0	0	0	0	0	0	93	1	0	0	8	0	0	0	569	0	241	0	0	99	0	0	0	0	0	11	0	43	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+1820513	0	3	0	0	0	0	0	0	0	0	6	0	0	0	36	67	0	49	0	0	16	0	0	0	0	0	0	8	0	0	0	0	0	0	0	156	37	124	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+3981288	0	0	4	0	0	0	0	0	6	0	3	0	0	0	0	0	0	0	1	0	1	0	6	1	16	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+273232	29	6	0	0	0	0	0	0	0	0	0	0	57	0	2	0	0	51	0	0	76	0	0	0	0	20	0	1	0	0	0	0	0	0	0	0	0	8	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila
+296298	17	0	0	0	0	15	40	0	3	0	1	2	1	3	1	0	0	10	0	0	2	2	0	3	1	0	1	0	0	0	0	0	0	0	0	4	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4301298	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	194	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+194962	1	0	0	0	0	0	1	0	0	0	1	0	0	0	11	0	0	1	0	1	1	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+360268	56	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Tenericutes; c__RF3; o__ML615J-28; f__; g__; s__
+301110	3	0	0	0	0	0	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+1103170	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__
+546876	10	0	1	0	0	0	3	0	2	0	2	8	0	0	2	0	0	3	2	5	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+180257	1	0	0	0	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+183817	0	0	44	0	0	0	19	0	0	0	7	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	7	30	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+323619	1	0	0	0	0	0	4	0	0	0	22	72	0	0	0	14	0	0	0	0	0	0	0	242	0	0	20	0	2	0	0	0	0	5	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+731707	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae
+166355	1	3	0	0	0	1	4	0	0	0	2	0	2	4	1	0	0	0	0	0	1	2	0	0	14	0	1	4	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2833757	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2549971	0	0	0	0	6	16	0	0	0	0	3	0	1	0	0	15	0	0	0	0	0	0	0	2	0	6	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+179677	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4008139	2	1	16	0	0	0	0	0	0	0	0	0	5	10	0	0	0	19	0	4	9	1	1	4	1	0	0	0	0	32	0	0	0	2	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+1971819	0	0	0	0	0	0	0	0	1	0	0	1	3	7	7	7	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	6	0	1	0	16	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+4466843	0	0	2	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	42	0	0	0	9	0	0	0	1	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+195556	0	0	0	0	0	0	6	0	0	0	2	10	0	0	1	0	0	0	0	0	9	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4319972	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Paludibacter; s__
+199091	0	0	1	0	3	2	3	0	2	0	0	36	0	0	20	0	15	1	0	2	0	0	3	0	0	0	0	5	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4476561	0	0	12	0	4	0	0	101	0	0	0	0	123	0	0	0	0	18	0	15	0	0	96	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+4315066	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	16	0	0	0	8	0	0	0	1	0	0	0	0	0	2	0	0	8	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__
+187973	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+195081	0	0	1	0	0	9	1	0	1	0	5	0	0	3	5	4	0	23	0	0	9	2	10	11	11	0	0	0	0	1	0	0	0	0	1	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+4356080	107	0	18	0	0	0	33	0	0	0	104	0	0	3	0	195	0	0	6	0	0	173	0	2	0	0	131	83	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+185420	1	0	0	0	0	0	0	1	0	0	2	0	1	0	0	0	2	4	0	1	0	0	1	0	0	2	0	3	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+1742070	0	0	0	0	0	0	0	2	0	98	0	19	0	0	0	0	17	0	0	0	1	0	8	12	0	3	0	0	0	18	0	1	25	22	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+362568	0	0	0	1	0	4	0	0	3	1	0	0	1	0	0	0	0	0	0	0	2	0	0	5	1	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+1066410	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__
+582630	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+346666	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	331	0	0	0	51	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__perfringens
+1097593	0	1	1	0	0	0	1	0	0	0	1	0	0	8	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales
+4391161	0	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	11	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+3392013	0	0	0	0	0	13	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	23	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+540086	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+532388	0	0	3	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	2	0	0	0	0	5	0	2	0	3	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa
+363692	0	0	0	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+195177	0	0	1	0	0	1	5	0	3	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	5	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+194360	0	0	0	0	0	184	121	0	0	0	111	103	0	0	62	0	125	0	0	12	0	0	0	0	0	0	0	0	67	0	80	0	497	69	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+521558	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+176332	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4434268	0	1	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Eubacteriaceae; g__Pseudoramibacter_Eubacterium; s__
+513010	0	0	0	0	0	0	1	0	0	0	1	0	2	1	0	1	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4350499	0	0	0	0	0	0	1	0	0	2	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__
+72142	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+3302831	0	0	0	2	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+208479	32	34	0	0	0	0	0	0	0	0	10	0	0	0	0	2	0	60	0	0	0	6	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+4087649	0	2	0	0	0	0	0	6	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2944933	0	310	0	0	0	0	3	0	0	0	0	0	0	1	0	0	167	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+389371	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+179760	0	1	0	0	1	4	2	1	1	0	9	0	0	0	1	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+2134452	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	7	29	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+179414	0	0	0	0	3	0	0	0	2	0	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+184175	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+365118	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+4457064	34	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+926362	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__
+271689	0	0	0	0	0	3	0	0	0	0	1	0	0	0	1	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+193915	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+193006	0	0	0	0	0	3	2	0	0	0	0	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	4	0	0	0	0	2	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+798581	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus
+157453	1	0	2	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+190639	0	0	5	0	3	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	29	0	0	11	0	0	0	1	0	0	0	0	0	0	0	7	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+333846	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4281639	6	0	0	0	0	0	0	0	8	6	0	4	3	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4390410	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+545299	1	0	5	0	0	0	5	0	0	0	0	4	0	0	1	0	0	1	0	9	0	1	0	0	1	0	2	0	0	0	0	0	7	0	0	0	2	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+303274	0	0	5	0	0	3	0	0	1	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4474759	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	260	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__
+526682	0	1	0	0	0	2	6	0	0	0	0	0	0	0	1	0	0	0	0	16	0	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	3	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__
+4378688	0	0	0	0	0	0	0	0	0	0	11	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+1848553	0	0	0	0	0	0	0	3	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	4	0	2	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+336761	2	0	5	0	0	0	0	0	1	12	2	6	0	0	3	0	0	0	0	0	3	0	0	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+174887	1	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+83803	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__
+1065569	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__; s__
+956625	0	0	3	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	1	5	1	0	0	2	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa
+423264	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__
+2280478	0	0	0	0	0	0	0	0	0	0	0	0	0	10	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+195883	0	0	0	0	0	0	1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+183686	0	6	0	6	1	0	0	0	0	7	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	4	0	0	0	3	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+188789	13	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+197930	0	0	1	0	1	0	0	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+196047	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4483046	0	0	1	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+581658	0	3	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+4437746	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+2626509	1	0	0	0	3	0	0	0	2	0	0	0	3	0	3	7	0	4	0	0	0	0	1	2	0	1	0	0	0	0	0	0	0	0	7	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+187212	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+4335578	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	11	0	0	0	0	0	0	0	3	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__
+4450711	36	0	0	0	5	0	13	7	12	0	0	0	0	0	0	0	6	13	6	4	2	24	0	32	0	0	131	2	0	0	49	1	0	0	0	9	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides
+191251	0	107	0	32	0	0	0	4	7	0	36	0	0	2	3	11	32	0	0	3	6	0	1	0	0	7	0	0	0	0	43	247	3	58	45	2	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides
+366727	0	0	0	0	18	0	0	0	0	162	0	6	1	2	0	0	16	0	0	4	0	0	0	2	0	0	0	1	2	16	25	82	26	22	1	0	5	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+4405423	0	0	3	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2487129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	142	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+184897	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+360147	0	0	0	1	0	1	1	0	6	0	2	3	2	0	2	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+315429	47	0	156	63	125	142	15	0	167	202	17	1	165	0	58	141	0	55	20	2	29	53	91	140	16	0	57	10	55	0	179	0	39	135	0	0	84	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4384936	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Gemellales; f__Gemellaceae; g__Gemella; s__
+327218	6	0	0	0	0	0	0	0	4	0	4	0	2	1	0	1	5	8	0	0	0	4	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4392484	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	89	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4404485	0	657	0	23	0	113	94	137	0	0	0	0	402	437	0	0	0	0	0	0	0	0	0	50	134	0	360	0	1472	92	0	0	584	0	0	3	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+523892	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+321796	0	0	0	0	0	0	6	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+158458	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+176034	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	7	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+528933	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__
+512154	18	0	0	0	1	195	8	0	0	0	8	102	36	0	3	2	0	58	0	0	5	0	0	0	0	23	0	0	0	0	0	0	0	10	5	13	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+175697	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+3805726	0	0	0	0	0	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__
+195186	0	0	0	0	0	0	0	0	0	10	5	0	1	3	0	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__faecis
+562244	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+4395096	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	5	0	0	0	0	0	0	0	0	36	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+727507	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4232045	1	0	5	0	0	0	0	0	2	0	2	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4232047	3	0	0	0	21	4	2	4	0	0	1	0	0	0	1	2	0	4	0	1	31	0	0	0	3	6	0	0	0	0	0	1	0	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4408959	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+4415814	0	45	1	1	0	87	10	76	0	0	0	0	37	6	48	0	0	0	0	0	0	0	0	16	13	0	49	0	128	155	0	0	46	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+2424737	0	0	5	0	0	2	0	0	14	23	2	0	0	0	0	0	2	0	0	0	0	0	0	0	29	1	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+190107	8	0	0	0	0	0	0	0	10	6	0	5	1	0	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+295554	0	0	0	0	0	0	8	0	0	0	2	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+298514	0	0	0	5	7	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+178763	20	0	10	0	0	1	0	64	0	0	2	0	0	0	0	0	0	0	0	1	0	0	18	16	30	23	3	11	0	0	0	0	0	0	15	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+168383	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+3173413	0	0	35	0	0	0	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	25	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+187178	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+3834453	0	0	18	155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	35	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+1110402	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Erwinia; s__
+174278	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3160267	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+4380438	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	147	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	21	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis
+375067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+356760	0	0	0	0	11	0	0	0	0	29	0	0	0	0	0	1	12	0	0	0	0	6	0	0	0	0	0	9	0	0	0	31	27	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+511386	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	137	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+532521	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__Peptostreptococcus; s__anaerobius
+565136	0	0	2	1	4	7	13	1	1	0	0	2	0	0	0	0	0	0	5	7	0	1	0	0	1	0	0	1	0	0	0	1	5	0	1	0	19	6	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__
+508968	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__
+186775	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+330414	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+359872	0	1	1	2	1	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Bilophila; s__
+873174	0	0	1	0	0	0	0	0	0	1	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	5	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+185235	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+4352409	0	0	0	0	6	0	0	1	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+2740953	0	0	0	0	0	0	0	0	74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+759751	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	14	0	0	1	1	0	0	0	1	3	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+181432	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__Paraprevotella; s__
+197233	2	0	3	0	0	1	66	0	1	0	6	5	0	1	2	0	1	2	0	1	3	0	5	0	0	0	1	0	0	0	0	3	0	0	0	0	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+194909	0	0	0	0	0	0	0	0	0	0	24	0	0	0	45	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__Paraprevotella; s__
+174300	4	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4127460	2	39	2	3	3	0	0	9	57	0	8	0	50	0	2	16	38	2	0	0	1	4	0	3	0	0	12	0	0	0	0	0	0	52	0	15	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+16054	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+180341	4	0	77	0	0	0	0	0	0	0	5	0	0	12	2	0	0	12	0	5	46	2	19	11	9	17	0	0	0	44	0	0	0	13	1	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+347243	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	5	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales
+639310	0	0	2	0	0	37	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__
+187225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	7	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__
+4453773	0	10	0	5	0	0	0	0	0	0	25	0	0	0	8	0	0	26	0	6	50	51	0	0	0	70	0	1	0	0	1	0	0	0	4	0	0	0	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__
+594206	1	0	9	1	2	39	2	0	0	0	6	46	1	0	0	0	0	0	1	2	0	1	5	33	1	1	1	2	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+3390534	0	2	0	0	0	0	0	1	5	0	1	0	0	0	0	0	5	0	0	0	4	0	0	0	0	4	0	0	0	0	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+4358527	41	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	4	0	0	0	44	0	10	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+191716	1	1	1	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+3892207	0	0	0	0	3	3	0	0	3	0	1	0	0	2	0	0	7	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3786156	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+846141	8	0	0	2	0	0	6	0	3	0	2	0	7	23	4	13	12	6	0	7	18	0	0	13	17	21	3	2	0	0	0	2	0	0	0	12	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+872163	0	0	1	0	0	1	3	0	1	3	0	0	0	1	0	2	0	0	1	1	0	0	1	0	0	0	1	0	0	0	0	3	3	0	3	0	2	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+353392	0	0	0	2	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+182271	0	0	1	1	0	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+305494	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+196986	3	0	0	0	0	6	4	6	6	0	0	2	0	0	2	0	0	1	0	0	1	0	0	9	11	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+199694	8	0	3	0	0	2	0	0	12	21	0	10	4	0	0	0	2	0	0	0	2	9	0	2	0	2	0	0	0	0	3	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+199699	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+198584	0	0	0	2	0	0	0	0	0	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4396688	0	0	0	0	0	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+4347689	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	1	0	0	6	0	0	0	0	0	20	0	142	1	41	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__ovatus
+535549	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__
+196729	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri
+198034	0	0	0	0	0	0	0	0	2	0	44	6	0	0	13	0	2	2	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__
+196724	1	0	1	0	0	0	0	0	0	3	0	4	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+186011	6	0	2	1	1	0	0	0	5	0	1	7	0	0	0	1	0	1	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+182008	3	0	1	0	3	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae
+4429986	1	0	1	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	1	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+584951	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+2574091	0	0	5	0	2	0	12	15	0	0	6	6	0	2	0	8	0	0	0	0	0	8	0	3	1	14	0	7	0	0	0	18	0	0	0	5	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+210371	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	3	0	0	0	1	0	1	0	0	0	0	0	0	2	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+269386	0	0	0	0	0	0	0	0	15	0	4	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__
+350832	0	0	0	4	0	0	165	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+495451	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	11	0	19	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__
+307890	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	4	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+941096	0	0	2	0	0	0	1	0	0	0	0	2	0	1	0	0	0	0	0	1	1	0	0	2	0	0	0	0	0	1	0	1	0	0	0	0	0	10	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+797560	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	2	0	0	1	0	0	0	0	0	2	0	0	0	0	1	0	0	9	0	0	0	6	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+4360486	0	0	4	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3244671	0	90	0	0	1	0	0	24	3	0	0	44	2	0	2	0	26	0	0	0	0	52	9	27	0	16	1	0	0	9	11	25	0	74	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+822337	1	0	1	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	1	0	0	4	0	1	1	0	0	0	0	3	0	0	0	1	0	0	5	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Janthinobacterium; s__lividum
+4318122	0	0	0	0	0	0	0	0	0	0	0	3	0	12	4	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus
+4318125	1	5	4	0	0	0	0	4	1	2	0	10	0	0	0	0	5	0	0	0	1	4	0	3	0	1	1	0	0	3	1	1	0	9	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]
+2223978	2	0	0	0	0	0	0	0	0	0	2	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+369014	0	3	0	0	0	13	10	4	6	2	0	0	0	0	0	0	0	8	0	0	0	8	0	0	0	9	0	5	0	0	0	0	0	2	13	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+369027	5	1	0	0	0	26	50	2	8	11	12	0	3	7	16	9	13	5	5	7	7	0	2	10	10	0	14	0	10	0	0	0	0	0	9	107	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+4356466	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+4356465	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	7	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__segnis
+188328	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	8	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+184339	4	0	2	0	1	5	0	0	2	0	1	4	1	0	1	0	0	0	0	0	4	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__
+180421	3	0	1	0	0	16	0	0	0	273	0	0	14	0	0	0	104	7	0	1	0	0	3	2	0	0	0	1	4	0	180	0	0	190	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+369709	1	0	4	0	0	0	1	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	9	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+4417335	0	0	0	5	3	0	0	8	0	0	0	0	0	5	0	0	0	1	4	3	0	0	3	1	0	0	0	0	0	1	0	0	0	0	7	7	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+174337	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	31	1	0	1	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila
+932370	0	0	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	2	3	4	0	0	0	0	5	0	0	0	0	0	0	0	43	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+366638	1	0	1	0	20	0	1	3	24	0	13	0	50	0	0	67	0	46	0	0	5	3	32	0	0	2	0	1	0	0	0	0	0	0	1	55	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+188749	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__
+360703	3	1	2	0	0	0	0	2	3	5	0	2	0	0	1	0	4	0	0	0	0	2	0	2	0	3	0	0	0	0	2	4	0	8	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+3758679	0	0	0	16	9	0	1	17	1	0	0	0	0	3	0	0	0	2	7	0	0	0	8	2	0	0	0	0	0	11	0	0	0	0	16	15	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+326142	0	0	0	0	0	0	4	0	0	0	1	1	0	0	6	0	0	0	0	0	0	0	2	2	6	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+4421070	20	0	227	0	203	5	20	107	102	0	72	0	0	0	22	0	191	40	1	0	75	0	136	84	138	0	151	48	0	0	0	0	0	0	0	0	21	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+513935	0	2	0	0	0	0	1	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+4401816	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae
+182854	0	140	1	20	49	0	0	50	3	0	13	4	9	4	3	6	0	11	38	0	53	28	15	3	0	9	0	9	0	31	12	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+4393532	0	2	0	4	11	0	4	1	0	0	0	6	0	1	2	2	1	1	1	0	0	6	11	1	0	7	5	0	0	7	5	10	0	0	0	8	0	1	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Eggerthella; s__lenta
+185068	0	0	0	0	0	5	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+535601	1	0	0	0	1	0	0	2	0	55	0	6	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	5	1	1	5	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+190607	0	0	0	0	0	3	1	0	0	9	1	0	1	2	1	1	5	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+565936	0	0	0	0	5	2	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	30	1	2	0	0	0	1	2	18	1	2	0	1	2	0	4	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Burkholderia; s__
+527208	0	0	0	0	0	8	0	0	0	0	35	0	0	0	2	0	0	0	0	9	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	29	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme
+194110	4	0	1	0	0	0	1	0	0	0	0	0	0	8	0	0	0	5	0	0	30	0	2	1	0	0	0	0	0	9	0	0	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__
+1937180	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	49	0	0	2	6	0	0	0	0	0	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__
+199190	1	0	0	0	65	0	0	0	12	0	0	0	0	2	8	6	0	26	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+181008	8	0	0	0	0	0	0	0	0	0	2	6	0	0	0	0	0	0	0	2	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+182261	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+195508	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	13	0	0	0	0	0	0	0	0	0	0	131	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+196082	5	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+198625	1	0	0	4	0	0	2	1	0	0	0	0	0	1	1	0	0	2	0	0	2	3	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+195213	0	0	0	0	0	0	0	0	2	0	2	1	0	0	0	0	0	1	0	0	2	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+193906	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+1600780	0	0	0	0	0	6	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+864465	0	0	1	0	0	0	2	0	0	2	0	0	0	0	2	3	0	0	2	1	0	0	0	0	1	3	0	0	0	0	1	0	49	0	0	0	6	1	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__
+294710	47	1	0	12	180	61	221	13	44	0	27	0	14	10	49	24	17	328	0	18	475	11	7	48	5	31	1	1	0	0	0	12	0	0	11	6	0	42	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+199034	2	0	0	2	1	1	0	0	6	0	1	1	9	0	8	0	0	3	0	0	9	2	2	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+3746312	1	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	1	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens
+179151	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	32	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+518743	0	1	0	0	0	0	4	0	1	0	0	2	0	9	0	0	0	0	0	1	0	0	0	2	9	0	0	0	0	3	0	0	10	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+4447072	0	3	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+772282	10	0	2	0	2	0	0	1	0	0	12	0	5	1	1	1	1	10	1	3	11	0	6	0	0	4	0	4	0	0	0	0	0	11	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+199336	0	0	0	0	0	0	30	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	2	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+363400	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+176499	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus
+4366089	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+519763	0	3	10	0	0	0	0	2	0	0	0	0	1	0	1	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+15728	0	3	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Holdemania; s__
+295029	0	0	0	0	0	0	0	0	0	0	0	0	0	30	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	54	8	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__
+569244	28	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__
+48084	5	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+194863	0	0	0	0	0	1	5	1	0	0	1	0	0	0	2	0	0	0	1	1	0	0	0	2	2	0	2	1	0	0	0	0	0	0	0	24	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+2082160	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__
+368462	0	26	0	0	3	0	0	0	0	36	0	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	27	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+368261	0	0	0	0	0	0	5	0	0	0	0	0	0	0	42	0	9	0	0	0	0	0	7	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+699224	0	0	1	1	2	1	10	0	0	0	1	3	0	0	0	2	0	0	1	1	1	1	4	2	10	3	0	0	3	2	6	1	1	6	0	4	16	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Herbaspirillum; s__
+548692	1	2	2	4	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	6	1	0	0	2	13	0	0	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+178064	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	3	0	0	0	1	0	0	1	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+575768	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+299620	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
+4333379	0	0	1	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	0	0	0	0	1	0	0	2	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis
+524841	8	0	4	0	1	10	2	6	2	0	13	10	7	0	0	1	3	20	0	0	8	0	5	0	0	1	3	4	2	2	0	0	0	6	0	9	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+192963	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila
+580008	3	2	2	0	1	11	25	9	2	0	7	20	2	2	7	3	0	8	2	0	0	6	1	14	8	0	7	2	2	3	0	0	0	3	23	6	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+175898	4	7	10	0	1	58	8	4	6	0	2	3	11	3	17	22	3	4	0	1	1	1	16	0	100	1	0	3	4	43	37	2	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]
+168509	0	0	1	0	0	2	2	3	1	0	1	0	0	1	0	3	0	0	0	0	0	3	0	0	0	1	3	0	0	0	0	0	0	0	0	3	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+370105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius
+4407387	0	2	1	1	4	0	0	8	1	28	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	3	0	0	0	0	6	6	0	3	0	0	0	2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+365496	0	0	0	0	0	0	7	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius
+239863	0	0	0	0	0	0	8	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+4402605	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+267718	14	35	27	2	7	0	1	53	15	56	0	54	0	3	8	8	27	0	0	0	1	20	9	46	0	16	9	4	0	33	13	27	0	94	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+3277423	99	0	75	0	1	6	0	238	0	0	4	0	0	0	0	0	0	0	0	2	0	0	80	105	153	111	16	42	0	0	0	0	0	0	96	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+2655741	0	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	6	0	1	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+196312	0	39	2	0	18	0	0	8	0	46	0	2	0	10	0	0	10	0	0	0	0	0	0	0	0	0	0	1	6	15	0	206	5	8	1	0	6	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+194924	7	0	0	0	0	2	0	0	1	2	0	1	6	1	3	0	0	2	0	0	2	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+190931	7	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+197214	0	1	23	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	85	0	0	5	0	0	0	33	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__
+New.CleanUp.ReferenceOTU96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__
+New.CleanUp.ReferenceOTU10	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+New.CleanUp.ReferenceOTU11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__
+New.CleanUp.ReferenceOTU15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+New.CleanUp.ReferenceOTU16	0	0	14	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
+New.CleanUp.ReferenceOTU19	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+New.CleanUp.ReferenceOTU61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__influenzae
+New.CleanUp.ReferenceOTU89	0	0	0	0	0	0	0	0	1	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__cc_115; s__
+New.CleanUp.ReferenceOTU88	0	5	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae
+New.CleanUp.ReferenceOTU41	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__
+New.CleanUp.ReferenceOTU45	0	0	1	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+New.CleanUp.ReferenceOTU44	0	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+New.CleanUp.ReferenceOTU6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Anaerostipes; s__
+New.CleanUp.ReferenceOTU7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__
+New.CleanUp.ReferenceOTU4	1	0	8	0	0	1	7	8	21	7	19	0	4	0	44	4	0	5	1	3	0	0	2	0	7	8	3	1	0	0	0	0	0	3	4	0	1	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+New.CleanUp.ReferenceOTU5	0	0	0	0	0	0	17	1	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii
+New.CleanUp.ReferenceOTU3	0	0	0	0	0	10	0	0	0	0	2	1	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	4	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+New.CleanUp.ReferenceOTU0	4	5	0	5	4	10	42	2	10	0	10	0	0	2	6	3	25	55	0	1	41	1	6	14	0	19	0	0	0	0	0	10	0	0	3	2	0	4	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+New.CleanUp.ReferenceOTU1	3	0	0	0	0	40	1	0	0	0	1	2	2	0	0	0	2	24	0	1	26	2	1	1	4	0	0	1	0	0	0	0	0	0	1	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+New.CleanUp.ReferenceOTU9	10	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__
+New.CleanUp.ReferenceOTU70	0	0	1	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar
+New.CleanUp.ReferenceOTU71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__
+New.CleanUp.ReferenceOTU75	3	0	0	0	0	4	0	0	1	0	3	1	0	0	6	0	2	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__
+New.CleanUp.ReferenceOTU35	1	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__
+New.CleanUp.ReferenceOTU30	0	0	0	0	5	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+New.CleanUp.ReferenceOTU217	1	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii
+New.CleanUp.ReferenceOTU81	0	2	0	0	1	0	2	1	0	1	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Oscillatoriales; f__Phormidiaceae; g__Trichodesmium; s__
+New.CleanUp.ReferenceOTU55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	2	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__
+New.CleanUp.ReferenceOTU56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales
+New.CleanUp.ReferenceOTU50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__FAC87; f__; g__; s__
+New.CleanUp.ReferenceOTU51	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+New.CleanUp.ReferenceOTU28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Holdemania; s__
+New.CleanUp.ReferenceOTU24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	2	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
+New.CleanUp.ReferenceOTU26	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	3	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+New.CleanUp.ReferenceOTU21	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
+New.CleanUp.ReferenceOTU23	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__
+New.CleanUp.ReferenceOTU22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
+New.CleanUp.ReferenceOTU98	0	0	0	2	0	0	3	0	0	0	4	0	0	0	5	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+New.CleanUp.ReferenceOTU59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__
+New.CleanUp.ReferenceOTU124	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis
+New.CleanUp.ReferenceOTU129	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus
