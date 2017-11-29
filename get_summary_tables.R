@@ -1,57 +1,21 @@
-# Loop through RF summary objects (.rda files) and make summary table for disease and treatment response
+# Loop through RF summary objects (.rds files) and make summary table for disease and treatment response.
 
-original_colnames <-  c( "file" , "num.features" , "mtry" , "num.trees" , "LOOCV.Accuracy" , "Model.OOB.error" , "Median.Rand.OOB.error" , "P.value" )
+setwd("/home/gavin/github_repos/CD_RF_microbiome/")
 
-summary_table <- data.frame( matrix( c( NA ) , nrow = 0 , ncol = 11 ) )
+source("BISCUIT_utility_code.R")
 
-colnames(summary_table) <- c( "trait" , "sequencing" , "category"  , original_colnames )
+rds_files_16S <- list.files("RF_RDS_output/16S", full.names = TRUE)
+rds_files_16S_CLR <- list.files("RF_RDS_output/16S_unrarified_CLR", full.names = TRUE)
+rds_files_mgs <- list.files("RF_RDS_output/mgs", full.names = TRUE)
 
-sequencing <- c( "16S" , "MGS" )
+rds_files_16S_summary <- rf_summary_from_rds_files(rds_files_16S)
+rds_files_16S_CLR_summary <- rf_summary_from_rds_files(rds_files_16S_CLR)
+rds_files_mgs_summary <- rf_summary_from_rds_files(rds_files_mgs)
 
-# Note that KOs are not included since they are run with a lower number of trees below
-categories <- c( "phylum" , "class" , "order" , "family" , "genus" , "species", "otus" , "strains" , "modules" , "pathways" , "KOs" )
-traits <- c( "disease" , "response" )
+rds_files_16S_mgs_summary <- rbind(rds_files_16S_summary, rds_files_mgs_summary)
 
-for ( s in sequencing ) {
+write.table( x=rds_files_16S_mgs_summary , file="raw_summary_out/RF_16S_mgs_summary.txt", 
+             row.names=FALSE , quote = FALSE , sep="\t" )
 
-  for ( c in categories ) {
-
-    for ( t in traits ) {
-
-      if ( c == "KOs") {
-
-        rda <- paste( "RF_obj_out/KOs/" , s  , sep ="" )
-
-      } else {
-
-        rda <- paste( "RF_obj_out/" , s  , sep ="" )
-      }
-
-      rda <- paste( rda , c , t , "RF_out.rda" , sep="_" ) 
-
-      if ( file.exists( rda ) ) {
-
-        attach( rda )
-
-        reordered_summary <- rf_out$summary
-
-        reordered_summary$sequencing <- s
-        reordered_summary$category <- c
-        reordered_summary$trait <- t
-
-        reordered_summary <- reordered_summary[ , c( "trait" , "sequencing" , "category"  , original_colnames ) ]
-
-        summary_table <- rbind( summary_table , reordered_summary )
-
-        detach()
-
-      }
-
-    }
-
-  }
-
-}
-
-write.table( x=summary_table , file="RF_summary_table.txt" , row.names=FALSE , quote = FALSE , sep="\t" )
-
+write.table( x=rds_files_16S_CLR_summary , file="raw_summary_out/RF_16S_CLR_summary.txt", 
+             row.names=FALSE , quote = FALSE , sep="\t" )

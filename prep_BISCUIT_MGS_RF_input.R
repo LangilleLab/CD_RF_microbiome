@@ -88,26 +88,18 @@ biscuit_mgs_class_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_m
 biscuit_mgs_phylum_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_phylum, 0.1)))
 
 
-mgs_ko_response_filt <- as.data.frame(scale(remove_rare_rows(mgs_ko, 0.1)))
-mgs_modules_response_filt <- as.data.frame(scale(remove_rare_rows(mgs_modules, 0.1)))
-mgs_pathways_response_filt <- as.data.frame(scale(remove_rare_rows(mgs_pathways, 0.1)))
+mgs_ko_response_filt <- as.data.frame(scale(remove_rare_rows(mgs_ko[,response_samples], 0.1)))
+mgs_modules_response_filt <- as.data.frame(scale(remove_rare_rows(mgs_modules[,response_samples], 0.1)))
+mgs_pathways_response_filt <- as.data.frame(scale(remove_rare_rows(mgs_pathways[,response_samples], 0.1)))
 
-biscuit_mgs_strain_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_strain, 0.1)))
-biscuit_mgs_species_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_species, 0.1)))
-biscuit_mgs_genus_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_genus, 0.1)))
-biscuit_mgs_family_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_family, 0.1)))
-biscuit_mgs_order_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_order, 0.1)))
-biscuit_mgs_class_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_class, 0.1)))
-biscuit_mgs_phylum_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_phylum, 0.1)))
+biscuit_mgs_strain_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_strain[,response_samples], 0.1)))
+biscuit_mgs_species_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_species[,response_samples], 0.1)))
+biscuit_mgs_genus_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_genus[,response_samples], 0.1)))
+biscuit_mgs_family_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_family[,response_samples], 0.1)))
+biscuit_mgs_order_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_order[,response_samples], 0.1)))
+biscuit_mgs_class_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_class[,response_samples], 0.1)))
+biscuit_mgs_phylum_response_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_phylum[,response_samples], 0.1)))
 
-
-biscuit_mgs_strain_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_strain, 0.1)))
-biscuit_mgs_species_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_species, 0.1)))
-biscuit_mgs_genus_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_genus, 0.1)))
-biscuit_mgs_family_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_family, 0.1)))
-biscuit_mgs_order_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_order, 0.1)))
-biscuit_mgs_class_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_class, 0.1)))
-biscuit_mgs_phylum_disease_filt <- as.data.frame(scale(remove_rare_rows(biscuit_mgs_phylum, 0.1)))
 
 # Write output file:
 write_RF_prep(mgs_ko_disease_filt, "prep_data/BISCUIT_MGS/biscuit_mgs_ko_disease_prep.tsv", "disease", biscuit_meta)
