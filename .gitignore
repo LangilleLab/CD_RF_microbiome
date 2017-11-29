@@ -3,3 +3,5 @@ RF_RDS_output/*
 raw_summary_out/*
 old_scripts/*
 prep_files.txt
+prep_data_mgs_response.txt
+plot_scripts/plot_varImp_TEST.R
