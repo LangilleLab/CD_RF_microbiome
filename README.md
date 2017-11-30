@@ -9,7 +9,7 @@ patients and healthy colon controls.
 of several of scripts in this repository.
 
 ```raw_data/``` contains the raw abundance tables used as input for the random
-forest analyses. ```bicuit_metadata.txt``` contains the relevant metadata for each
+forest analyses. ```biscuit_metadata.txt``` contains the relevant metadata for each
 sample.
 
 These tables were prepped for the RF analyses with these scripts:
