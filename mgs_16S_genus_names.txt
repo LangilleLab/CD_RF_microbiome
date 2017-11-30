@@ -1,0 +1,17 @@
+mgs	16S
+g__Bifidobacterium	g__Bifidobacterium
+g__Bacteroides	g__Bacteroides
+g__Odoribacter	g__Odoribacter
+g__Parabacteroides	g__Parabacteroides
+g__Prevotella	g__Prevotella
+g__Clostridium	g__Clostridium
+g__Eubacterium	g__[Eubacterium]
+g__Blautia	g__Blautia
+g__Dorea	g__Dorea
+g__Lachnospiraceae_noname	k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.Unclassified
+g__Roseburia	g__Roseburia
+g__Faecalibacterium	g__Faecalibacterium
+g__Veillonella	g__Veillonella
+g__Sutterella	g__Sutterella
+g__Haemophilus	g__Haemophilus
+g__Akkermansia	g__Akkermansia
